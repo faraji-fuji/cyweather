@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cyweather/static/css/main.0cb60769.css",
+    "main.js": "/cyweather/static/js/main.8ee42357.js",
+    "static/js/787.57c9a8c3.chunk.js": "/cyweather/static/js/787.57c9a8c3.chunk.js",
+    "index.html": "/cyweather/index.html",
+    "main.0cb60769.css.map": "/cyweather/static/css/main.0cb60769.css.map",
+    "main.8ee42357.js.map": "/cyweather/static/js/main.8ee42357.js.map",
+    "787.57c9a8c3.chunk.js.map": "/cyweather/static/js/787.57c9a8c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cb60769.css",
+    "static/js/main.8ee42357.js"
+  ]
+}
